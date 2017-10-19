@@ -1,4 +1,4 @@
-/* Paul Esqueda González */
+/* Poulkas */
 #ifndef PERCEPTRON_H_INCLUDE
 #define PERCEPTRON_H_INCLUDE
 
