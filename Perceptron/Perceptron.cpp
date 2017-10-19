@@ -1,4 +1,4 @@
-/* Paul Esqueda González */
+/* Poulkas */
 #include <iostream>
 #include <vector>
 #include <stdlib.h>
