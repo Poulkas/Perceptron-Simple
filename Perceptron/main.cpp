@@ -1,5 +1,5 @@
-/* Paul Esqueda González
-* Example of OR Problem
+/* Poulkas
+* Example of OR, AND, XOR
 */
 #include <iostream>
 #include <stdlib.h>
